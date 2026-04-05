@@ -49,6 +49,18 @@
 
 ---
 
+## ⬇️ Download & Run (No Python Required)
+
+The easiest way to use this app is to download the pre-built `.exe` directly — **no installation, no Python, no dependencies needed.**
+
+1. Go to the [**Releases**](../../releases/latest) page of this repository
+2. Under **Assets**, download **`KirilToLatin.exe`**
+3. Double-click the downloaded file to launch the app
+
+> ⚠️ **Windows SmartScreen warning?** Click **"More info"** → **"Run anyway"**. The app is safe — the warning appears because the `.exe` is not yet code-signed.
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
